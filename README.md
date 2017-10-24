@@ -1,5 +1,4 @@
-# Grafo
-
+# Graph
 Si implementi la struttura dati Grafo diretto in modo che sia ottimale per
 dati sparsi.
 
